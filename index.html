@@ -1255,11 +1255,11 @@ body.dark-mode .button-3 {
   const isDarkMode = body.classList.contains('dark-mode');
   const backgroundColor = isDarkMode ? '#0F0F0E' : '#ffffff'; // Black for dark mode, white for light mode
   
-  // Function to detect iOS devices
   const isIOS = () => {
-    return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    return (/iPad|iPhone|iPod/.test(navigator.userAgent) || 
+           (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) && 
+           !window.MSStream;
   };
-
   try {
     // Save the current zoom value and temporarily remove it if on iOS
     let originalZoom = null;
