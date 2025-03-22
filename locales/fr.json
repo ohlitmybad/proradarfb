@@ -1,0 +1,29 @@
+{
+  "search": {
+    "placeholder2": "Chercher un latéral..."
+  },
+  "table": {
+    "percentiles": "Centiles",
+    "age": "Âge",
+    "cross": "% Centres",
+    "xa": "xA",
+    "progPasses": "Passes prog",
+    "defActions": "Actions déf",
+    "defDuel": "% Duel déf",
+    "aerial": "% Duel aérien",
+    "progCarries": "Courses prog",
+    "minutes": "Minutes jouées"
+  },
+  "radar": {
+    "aerial": "% Aérien",
+    "duel": "% Duels",
+    "defActions": "Actions Déf",
+    "progPasses": "Passes Prog",
+    "xAssist": "xAssist",
+    "cross": "% Centres",
+    "carrying": "Courses"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  }
+} 
