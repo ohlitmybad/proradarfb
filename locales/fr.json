@@ -5,22 +5,22 @@
   "table": {
     "percentiles": "Centiles",
     "age": "Âge",
-    "cross": "% Centres",
+    "cross": "Centres réussis",
     "xa": "xA",
     "progPasses": "Passes prog",
-    "defActions": "Actions déf",
+    "possWon": "Poss gagnées",
     "defDuel": "% Duel déf",
     "aerial": "% Duel aérien",
     "progCarries": "Courses prog",
-    "minutes": "Minutes jouées"
+    "minutes": "Minutes"
   },
   "radar": {
     "aerial": "% Aérien",
-    "duel": "% Duels",
-    "defActions": "Actions Déf",
-    "progPasses": "Passes Prog",
+    "duel": "% Duel déf",
+    "possWon": "Poss gagnées",
+    "progPasses": "Passes prog",
     "xAssist": "xAssist",
-    "cross": "% Centres",
+    "cross": "Centres",
     "carrying": "Courses"
   },
   "similar": {
