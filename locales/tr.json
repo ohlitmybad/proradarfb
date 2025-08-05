@@ -1,0 +1,39 @@
+{
+  "search": {
+    "placeholder2": "Bek adı girin..."
+  },
+  "table": {
+    "percentiles": "Yüzdelikler",
+    "age": "Yaş",
+    "cross": "Orta tamamla",
+    "xa": "xA",
+    "progPasses": "Hücum pası",
+    "possWon": "Top kazanma",
+    "defDuel": "Savunma düello%",
+    "aerial": "Hava düello%",
+    "progCarries": "Topu ileri taşıma",
+    "minutes": "Dakika"
+  },
+  "radar": {
+    "aerial": "Hava%",
+    "duel": "Savunma düello%",
+    "possWon": "Top kazanma",
+    "progPasses": "Hücum pası",
+    "xAssist": "xAsist",
+    "cross": "Ortalar",
+    "carrying": "Topu ileri taşıma"
+  },
+  "similar": {
+    "to": "Benzer veri"
+  },
+"season_all": "Tüm Sezonlar", 
+"season_current": "Mevcut Sezon",
+"league_all": "Tüm Ligler",
+"league_top7": "En İyi 7 Lig",
+"league_outside": "En İyi 7 Dışında", 
+"age_all": "Tüm Yaşlar",
+"age_u30": "30 Yaş Altı",
+"age_u25": "25 Yaş Altı",
+"age_u23": "23 Yaş Altı",
+"age_u21": "21 Yaş Altı"
+} 
