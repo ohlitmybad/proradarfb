@@ -9,14 +9,14 @@
     "xa": "xA",
     "progPasses": "Hücum pası",
     "possWon": "Top kazanma",
-    "defDuel": "Savunma düello%",
+    "defDuel": "Savunma%",
     "aerial": "Hava düello%",
     "progCarries": "Topu ileri taşıma",
     "minutes": "Dakika"
   },
   "radar": {
     "aerial": "Hava%",
-    "duel": "Savunma düello%",
+    "duel": "Savunma%",
     "possWon": "Top kazanma",
     "progPasses": "Hücum pası",
     "xAssist": "xAsist",
