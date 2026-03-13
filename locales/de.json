@@ -1,0 +1,39 @@
+{
+  "search": {
+    "placeholder2": "Name des Außenverteidigers eingeben..."
+  },
+  "table": {
+    "percentiles": "Perzentile",
+    "age": "Alter",
+    "cross": "Flanken gesp.",
+    "xa": "xA",
+    "progPasses": "Prog. Pässe",
+    "possWon": "Ballgew.",
+    "defDuel": "Def. Duelle%",
+    "aerial": "Kopfball%",
+    "progCarries": "Prog. Läufe",
+    "minutes": "Minuten"
+  },
+  "radar": {
+    "aerial": "Kopfball%",
+    "duel": "Def. Duelle%",
+    "possWon": "Ballgew.",
+    "progPasses": "Prog. Pässe",
+    "xAssist": "xAssist",
+    "cross": "Flanken",
+    "carrying": "Ballführung"
+  },
+  "similar": {
+    "to": "Ähnliche Daten wie"
+  },
+  "season_all": "Alle Saisons",
+  "season_current": "Aktuelle Saison",
+  "league_all": "Alle Ligen",
+  "league_top7": "Top 7 Ligen",
+  "league_outside": "Außerhalb Top 7",
+  "age_all": "Alle Altersklassen",
+  "age_u30": "Unter 30",
+  "age_u25": "Unter 25",
+  "age_u23": "Unter 23",
+  "age_u21": "Unter 21"
+}
